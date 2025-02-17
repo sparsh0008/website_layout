@@ -1,0 +1,239 @@
+.main-container {
+  margin-top: 0%;
+  left: 0%;
+  margin: 0%;
+  padding: 0%;
+  height: 30px; /* Set to desired height */
+  width: 100%; /* Full width */
+  background-color: rgb(134, 134, 134); /* Optional background color */
+  display: flex; /* Optional: For layout control */
+  justify-content: center; /* Optional: Center content horizontally */
+  align-items: center; /* Optional: Center content vertically */
+  }
+
+.nav-bar{
+  height: 70px; /* Set to desired height */
+  width: 100%; /* Full width */
+  background-color: white; /* Optional background color */
+  display: flex; /* Optional: For layout control */
+  justify-content: center; /* Optional: Center content horizontally */
+  align-items: center; /* Optional: Center content vertically */
+}
+
+.nav-box1 {
+  width: 30%;
+  height: 100%;
+  background-color: lightblue;
+  text-align: center;
+  line-height: 100px;
+  border: 1px solid #000;
+}
+ 
+.nav-box2 {
+  width: 100%;
+  height: 100%;
+  background-color: lightblue;
+  text-align: center;
+  line-height: 100px;
+  border: 1px solid #000;
+}
+
+.nav-box3 {
+  width: 150%;
+  height: 100%;
+  background-color: lightblue;
+  text-align: center;
+  line-height: 100px;
+  border: 1px solid #000;
+}
+
+.nav-box4 {
+  width: 30%;
+  height: 100%;
+  background-color: lightblue;
+  text-align: center;
+  line-height: 100px;
+  border: 1px solid #000;
+}
+
+.opening-image{
+  height: 587px; /* Set to desired height */
+  width: 100%; /* Full width */
+  background-color: rgb(0, 0, 0); /* Optional background color */
+  display: flex; /* Optional: For layout control */
+  justify-content: center; /* Optional: Center content horizontally */
+  align-items: center; /* Optional: Center content vertically */ 
+  color: white;
+}
+
+.img-box {
+  width: 50%;
+  height: 80px;
+  background-color: white;
+  text-align: left;
+  line-height: 80px;
+  font-weight: bold;
+  border: 1px solid black;
+  position: absolute;
+  color: black;
+}
+
+.img-boxb {
+  width: 15%;
+  height: 80px;
+  background-color: white;
+  text-align: center;
+  line-height: 80px;
+  font-weight: bold;
+  border: 1px solid black;
+  position: absolute;
+  color: black;
+}
+
+/* Adjust positions to make it look randomly placed */
+.box1 { top: 300px; left: 100px; font-size: xx-large;}
+.box2 { top: 400px; left: 100px; }
+.box3 { top: 500px; left: 230px; }
+.box4 { top: 500px; left: 470px; }
+
+.gift-box-items{
+  height: 695px; /* Set to desired height */
+  width: 100%; /* Full width */
+  background-color: rgb(216, 26, 26); /* Optional background color */
+  display: flex; /* Optional: For layout control */
+  justify-content: center; /* Optional: Center content horizontally */
+  align-items: center; /* Optional: Center content vertically */ 
+  color: white;
+}
+
+.custom-box-items{
+  height: 900px; /* Set to desired height */
+  width: 100%; /* Full width */
+  background-color: rgb(28, 207, 94); /* Optional background color */
+  display: flex; /* Optional: For layout control */
+  justify-content: center; /* Optional: Center content horizontally */
+  align-items: center; /* Optional: Center content vertically */ 
+  color: white;
+}
+
+.cus-box {
+  width: 50%;
+  height: 80px;
+  background-color: white;
+  text-align: center;
+  line-height: 80px;
+  font-weight: bold;
+  border: 1px solid black;
+  position: absolute;
+  color: black;
+}
+
+.cus-boxb {
+  width: 15%;
+  height: 80px;
+  background-color: white;
+  text-align: center;
+  line-height: 80px;
+  font-weight: bold;
+  border: 1px solid black;
+  position: absolute;
+  color: black;
+}
+
+/* Adjust positions to make it look randomly placed */
+.cusbox1 { top: 1500px; left: 25%; font-size: xx-large;}
+.cusbox2 { top: 1600px; left: 13%; width: 70%;}
+.cusbox3 { top: 1700px; left: 24%; }
+.cusbox4 { top: 1700px; left: 58%; }
+.cusbox5 { top: 1800px; left: 0.6%; width: 50%; height: 70%;}
+.cusbox6 { top: 1800px; right: 0.6%; width: 50%; height: 70%;}
+.overcusbox { top: 1865px; left: 5%; width: 50%; height: 50%;}
+.bodybox {top: 65px; left: 5%; width: 90%; height: 70%;}
+.orderbox { top: 245px; left: 42%; width: 15%; height: 15%; font-size: x-small}
+
+
+.shop-by-category{
+  height: 695px; /* Set to desired height */
+  width: 100%; /* Full width */
+  background-color: rgb(39, 27, 180); /* Optional background color */
+  display: flex; /* Optional: For layout control */
+  justify-content: center; /* Optional: Center content horizontally */
+  align-items: center; /* Optional: Center content vertically */ 
+  color: white;
+}
+
+.category-box{
+  background-color: white;
+  text-align: center;
+  line-height: 80px;
+  font-weight: bold;
+  border: 1px solid black;
+  position: absolute;
+  color: black;
+} 
+
+.catbox1 {top: 2400px; left: 25%; font-size: xx-large; width: 50%; height: 80px;}
+.catbox2 {top: 2600px; left: 5%; font-size: xx-large; width: 20%; height: 40%;}
+.catbox3 {top: 2600px; left: 29%; font-size: xx-large; width: 20%; height: 40%;}
+.catbox4 {top: 2600px; left: 52%; font-size: xx-large; width: 20%; height: 40%;}
+.catbox5 {top: 2600px; left: 75%; font-size: xx-large; width: 20%; height: 40%;}
+
+.custom-hr {
+  position: absolute;
+  top: 75%; /* Move down from the top */
+  left: 0px;  /* Move right from the left */
+  width: 100%;
+  border: 0.5px solid rgb(0, 0, 0);
+}
+
+.category-btn{
+  background-color: white;
+  text-align: center;
+  line-height: 30px;
+  font-weight: bold;
+  border: 1px solid black;
+  position: absolute;
+  color: black;
+}
+
+.pos{top: 81%; left: 0%; font-size: small; width: 100%; height: 55px;}
+
+.what-clients-says{
+  height: 695px; /* Set to desired height */
+  width: 100%; /* Full width */
+  background-color: rgb(218, 147, 26); /* Optional background color */
+  display: flex; /* Optional: For layout control */
+  justify-content: center; /* Optional: Center content horizontally */
+  align-items: center; /* Optional: Center content vertically */ 
+  color: white;
+}
+
+.shipment{
+  height: 500px; /* Set to desired height */
+  width: 100%; /* Full width */
+  background-color: rgb(251, 255, 0); /* Optional background color */
+  display: flex; /* Optional: For layout control */
+  justify-content: center; /* Optional: Center content horizontally */
+  align-items: center; /* Optional: Center content vertically */ 
+  color: black;
+}
+
+.subscribe{
+  height: 300PX; /* Set to desired height */
+  width: 100%; /* Full width */
+  background-color: rgb(0, 255, 204); /* Optional background color */
+  display: flex; /* Optional: For layout control */
+  justify-content: center; /* Optional: Center content horizontally */
+  align-items: center; /* Optional: Center content vertically */ 
+  color: BLACK;
+}
+
+.footer{
+  height: 650px; /* Set to desired height */
+  width: 100%; /* Full width */
+  background-color: rgb(225, 0, 255); /* Optional background color */
+  display: flex; /* Optional: For layout control */
+  justify-content: center; /* Optional: Center content horizontally */
+  align-items: center; /* Optional: Center content vertically */ 
+  color: black;
+}
